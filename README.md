@@ -1,2 +1,2 @@
 # Recipe Reader Application
-AquaMed is a Flask API service where users can make medical appointments.
+Simulating an application that makes ajax calls from a fake recipe remote server.
